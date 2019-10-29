@@ -56,8 +56,8 @@ preserveTaxonomyNames = true
     Dribbble = "xxoo"
     Medium = "xxoo"
 [params.gitalk] # Github: https://github.com/gitalk/gitalk
-    clientID = "8510a4b571a1b6ff8f97" # Your client ID
-    clientSecret = "00f7f86e2b4f27c3470ed3af9f1132efb1ce89d5" # Your client secret
+    clientID = "b20261d94138094f75b3" # Your client ID
+    clientSecret = "72c4045ae76a644cc1752412e495db0553b709f6" # Your client secret
     repo = "https://Ghw2066.github.io" # The repo to store comments
     owner = "Ghw2066" # Your GitHub ID
     admin= "Ghw2066" # Required. Github repository owner and collaborators. (Users who having write access to this repository)
