@@ -46,15 +46,16 @@ preserveTaxonomyNames = true
     baiduAnalytics = ""
     license= '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
 [params.social]
-    GitHub = "xxoo"
-    Twitter = "xxoo"
+    GitHub = "https://github.com/Ghw2066"
+    #Twitter = "xxoo"
     Email   = "guohaowen_login@outlook.com"
-    Instagram = "xxoo"
+    #Instagram = "xxoo"
     Wechat = "/images/me/wechat.png"  # Wechat QRcode image
-    Facebook = "xxoo"
-    Telegram = "xxoo"
-    Dribbble = "xxoo"
-    Medium = "xxoo"
+    #Facebook = "xxoo"
+    #Telegram = "xxoo"
+    #Dribbble = "xxoo"
+    #Medium = "xxoo"
+    Zhihu = "xxoo"
 [params.gitalk] # Github: https://github.com/gitalk/gitalk
     clientID = "b20261d94138094f75b3" # Your client ID
     clientSecret = "72c4045ae76a644cc1752412e495db0553b709f6" # Your client secret
